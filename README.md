@@ -31,7 +31,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Julio-Postgress" eight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Julio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Julio-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
-  <img align="right" alt="Julio-pic" height="150" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/91479714?v=4?width=676&height=676">
+  <img align="right" alt="Julio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/91479714?v=4?width=676&height=676">
 </div>
   
 ## 
+<div> 
+  <a href="https://www.instagram.com/julio_soaresl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:juliosoareslima@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAliosoareslima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
